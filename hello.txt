@@ -1,6 +1,10 @@
 hello
+<<<<<<< HEAD
 junk
 end
 no
 yes
 OJ
+=======
+junk
+>>>>>>> parent of 89fc458... end
